@@ -1,5 +1,5 @@
 # Swift-CoreData
-## FriendsDatacore application instruction
+## FriendsDatacore Application
 
 ### 1.Workflow 
 
