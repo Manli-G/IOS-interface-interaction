@@ -1,4 +1,4 @@
-# IOS-interface-interaction
+# Swift-CoreData
 ## FriendsDatacore application instruction
 
 ### 1.Workflow 
